@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suzie999
-- 👀 I’m interested in exploring data-driven solutions that improve customer and employee experiences, as well as diving into the world of e-commerce analytics to uncover insightful trends. exploring data-driven solutions that improve customer and employee experiences, as well as diving into the world of e-commerce analytics to uncover insightful trends.
+- 👀 I’m interested in exploring data-driven solutions that improve customer and employee experiences, as well as diving into the world of e-commerce analytics to uncover insightful trends. 
 - 🌱 I’m currently learning advanced data analysis techniques and honing my skills in various tools and technologies to transform complex data into meaningful insights.
 - 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/kelly72/)
