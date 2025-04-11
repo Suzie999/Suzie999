@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced data analysis techniques and honing my skills in various tools and technologies to transform complex data into meaningful insights.
 - 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/kelly72/)
-- [Email](mailto:suziek72@gmail.com)
+- [Email](mailto:suziekelly999@gmail.com)
 - [Troopl](https://troopl.com/suziek999)
 - [GitHub](https://github.com/Suzie999)
 - 😄 Pronouns: She/Her/They/Them
